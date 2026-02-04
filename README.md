@@ -78,9 +78,9 @@ Configuración JSON:
 {
   "mcpServers": {
     "mi_biblioteca": {
-      "command": "C:/Users/TU_USUARIO/Documents/mi-primer-mcp/.venv/Scripts/python.exe",
+      "command": "C:/Users/TU_USUARIO/Documents/poc_lite_mcp/.venv/Scripts/python.exe",
       "args": [
-        "C:/Users/TU_USUARIO/Documents/mi-primer-mcp/hello.py"
+        "C:/Users/TU_USUARIO/Documents/poc_lite_mcp/hello.py"
       ]
     }
   }
