@@ -8,7 +8,6 @@ Este proyecto es una guía práctica para aprender a utilizar el **Model Context
 Para que este repositorio sea funcional y seguro, se organiza de la siguiente manera:
 * `hello.py`: El servidor MCP (el "traductor" entre la IA y tus datos).
 * `crear_db.py`: Script para inicializar tu base de datos SQLite local.
-* `requirements.txt`: Lista de librerías necesarias.
 * `.gitignore`: Configuración para NO subir archivos sensibles (como la base de datos o el entorno virtual).
 
 ---
