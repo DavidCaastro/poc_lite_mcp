@@ -1,4 +1,4 @@
-# 📚 Mi Primer Proyecto MCP: Conexión a Base de Datos Local
+# 📚 Proyecto MCP: Conexión a Base de Datos Local
 
 Este proyecto es una guía práctica para aprender a utilizar el **Model Context Protocol (MCP)** conectando un modelo de IA (como Claude Desktop) con una base de datos pública o local de manera segura y gratuita.
 
