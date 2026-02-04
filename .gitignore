@@ -1,5 +1,8 @@
-# Entornos virtuales Python
 venv/
 .env/
 .venv/
 env/
+
+__pycache__/
+*.db
+.env
