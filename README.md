@@ -67,7 +67,7 @@ if __name__ == "__main__":
 ## 4. Conexión con Claude Desktop
 Debes registrar este servidor en tu archivo de configuración de Claude:
 
-Windows: %APPDATA%\Claude\claude_desktop_config.json
+Windows: %APPDATA%\Users\%User_Name%\Claude\claude_desktop_config.json
 
 macOS: ~/Library/Application Support/Claude/claude_desktop_config.json
 
